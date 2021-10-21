@@ -4,5 +4,6 @@
 * Library used for this pupose -> `https://github.com/sirupsen/logrus`
 
 ## Run the following commands in your terminal to get main.go file code execute:
-- step-1) `go get -u github.com/sirupsen/logrus`
-- step-2) `go run main.go`
+- `go get -u github.com/sirupsen/logrus`
+## OR
+- `go run main.go` It will fetch all the dependencies that are required for this project to execute because of go-modules (Package management).
