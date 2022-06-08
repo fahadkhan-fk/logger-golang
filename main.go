@@ -22,4 +22,6 @@ func main() {
 	log.Fatal("This is really bad, exiting ..")
 
 	// just run this above code by `go run main.go` in your terminal and you will se the results.
+
+	//  just having these lines of code for testing purpose!
 }
